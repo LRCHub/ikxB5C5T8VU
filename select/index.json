@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "バタフライエフェクト",
+  "base_artist": "えんぷてい",
+  "createdAt": "2026-03-11T16:12:22.686124Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バタフライエフェクト",
+      "artist": "Ray",
+      "has_synced": false,
+      "path": "select/01_バタフライエフェクト_Ray.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "バタフライエフェクト",
+      "artist": "Shiritsu Ebisu Chugaku",
+      "has_synced": true,
+      "path": "select/02_バタフライエフェクト_Shiritsu_Ebisu_Chugaku.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "バタフライエフェクト",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/03_バタフライエフェクト_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "バタフライエフェクト",
+      "artist": "シド",
+      "has_synced": true,
+      "path": "select/04_バタフライエフェクト_シド.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "バタフライエフェクト",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/05_バタフライエフェクト_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "バタフライエフェクト",
+      "artist": "SID",
+      "has_synced": true,
+      "path": "select/06_バタフライエフェクト_SID.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "バタフライエフェクト",
+      "artist": "Shiritsu Ebisu Chugaku",
+      "has_synced": true,
+      "path": "select/07_バタフライエフェクト_Shiritsu_Ebisu_Chugaku.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "バタフライエフェクト",
+      "artist": "シド",
+      "has_synced": true,
+      "path": "select/08_バタフライエフェクト_シド.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バタフライエフェクト",
+      "artist": "えんぷてい",
+      "has_synced": false,
+      "path": "select/pl_01_バタフライエフェクト_えんぷてい.txt"
+    }
+  ]
+}
